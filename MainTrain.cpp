@@ -1,7 +1,7 @@
 ﻿#include "Bank.h"
 #include <iostream>
 using namespace std;
-
+// shaked
 int main() //Train
 {
 	Bank bank( "The First International Bank of Israel​ Ltd", 31 );
